@@ -1,7 +1,8 @@
 # [View Demo](https://esp-32-online-cctv.vercel.app/)
 
-<img src="picture.png" alt="Screenshot" width="80%">
-<img src="pictures.png" alt="Screenshot" width="80%">
+<img src="pictures.png" alt="Screenshot" width="60%">
+<img src="picture.png" alt="Screenshot" width="60%">
+
 
 
 # React + Vite
